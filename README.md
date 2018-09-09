@@ -1,1 +1,5 @@
-# Magento2_Product_Review_List
+Magento2 Product Review List
+=================================
+
+###Usage: 
+		php bin/magento product:review:list <product id>
